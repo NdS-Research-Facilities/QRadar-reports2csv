@@ -3,8 +3,8 @@
 # Nico de Smidt 20150905
 #
 # run this script on a python3 enabled machine, this is typically not a QRadar appliance
-# Usage: pyhton3 QRadar-reports2csv.py [report-ContentExport-20150521204234.tar.gz] > reports.csv
-# where [report-ContentExport-20150521204234.tar.gz] is derived by running:
+# Usage: pyhton3 QRadar-reports2csv.py [report-ContentExport-date.tar.gz] > reports.csv
+# where [report-ContentExport-date.tar.gz] is derived by running:
 # ./contentManagement.pl --action export --content-type report --id all
 # on your QRadar system, and copy the resulting .tar.gz file to your python3 machine
 #
