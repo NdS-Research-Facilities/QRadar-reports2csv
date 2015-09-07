@@ -1,7 +1,7 @@
 # QRadar-reports2csv
 Convert a CMT export file to a .csv file to be imported into a spreadsheet
 
-This script requires a contetentManagement export file in order to process into a .csv file which lists all standard report templates.
+This script requires a contentManagement export file in order to process into a .csv file which lists all standard report templates.
 
 Run below command on a QRadar appliance
 
