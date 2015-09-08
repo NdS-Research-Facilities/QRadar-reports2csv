@@ -5,7 +5,7 @@ This script requires a contentManagement export file in order to process into a 
 
 Run below command on a QRadar appliance
 
-./contentManagement.pl --action export --content-type report --id all
+/opt/qradar/bin/contentManagement.pl --action export --content-type report --id all
 
 copy the resulting .tar.gz file to a python3 enabled machine (this is typically not your QRadar machine)
 on this machine run this script as:
