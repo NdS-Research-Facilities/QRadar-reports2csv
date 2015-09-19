@@ -17,3 +17,5 @@ where [report-ContentExport-date.tar.gz] = the file you copied from your QRadar 
 open reports.csv in a spreadsheet and format at will.
 
 Any feedback is welcome
+
+DISCLAIMER: This code is free to use, feedback is welcome, do not call IBM with support issues or questions on this code. 
